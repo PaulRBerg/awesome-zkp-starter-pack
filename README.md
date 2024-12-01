@@ -12,7 +12,7 @@ The goal of this post is to serve as an entry point for anyone interested to mak
 - zkS**T**ARK = Zero-Knowledge Scalable Transparent ARgument of Knowledge
 - AZTEC = Anonymous Zero-knowledge Transactions with Efficient Communication
 
-**Induction**
+**Introduction**
 - [[Deck] Elena Nadolinski: Demystifying Zero-Knowledge Proofs](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.p)
 - [[Article] Matthew Green: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
 - [[Podcast] Zero Knowledge FM: Intro to Zero-Knowledge Proofs with Anna Rose &amp; Fredrik Harrysson](http://www.zeroknowledge.fm/21)
